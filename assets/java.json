@@ -1,0 +1,169 @@
+{
+    "questions":[
+        {
+            "question":"What is the size of float variable?",
+            "options":[{
+                "option":
+                "8 bit"
+            },
+            {
+                "option":
+                "16 bit"
+            },
+            {
+                "option":
+                "64 bit."
+            },
+            {
+                "option":
+                "32 bit.",
+                "correct": true
+            }
+            
+        ]
+        },
+        {
+            "question":"Who is inventor of Java ?",
+            "options":[{
+                "option":
+                "Steve Jobs"
+            },
+            {
+                "option":
+                "Dennis Ritchiey"
+            },
+            {
+                "option":
+                "James Gosling",
+                "correct": true
+            },
+            {
+                "option":
+                "None of the above."
+                
+            }
+            
+        ]
+        },
+        {
+            "question":"Java initial release date ?",
+            "options":[{
+                "option":
+                "1991",
+                "correct": true
+            },
+            {
+                "option":
+                "1961"
+            },
+            {
+                "option":
+                "1982"
+                
+            },
+            {
+                "option":
+                "2005"
+                
+            }
+            
+        ]
+        },
+        {
+            "question":"Which tool is required on each machine to run a Java program?",
+            "options":[{
+                "option":
+                "JDK"
+            },
+            {
+                "option":
+                "JRE",
+                "correct": true
+            },
+            {
+                "option":
+                "CVS"
+                
+            },
+            {
+                "option":
+                "JSL"
+                
+            }
+            
+        ]
+        },
+        {
+            "question":" What is a loop ?",
+            "options":[{
+                "option":
+                "A new type of Applet."
+            },
+            {
+                "option":
+                "A segment of code to be run infinite times"
+            },
+            {
+                "option":
+                "A segment of code to be run a specified amount of times",
+                "correct": true
+                
+            },
+            {
+                "option":
+                "A segment of code to be run once"
+                
+            }
+            
+        ]
+        },
+        {
+            "question":" Which of the following are Java keywords?",
+            "options":[{
+                "option":
+                "throw"
+            },
+            {
+                "option":
+                " void"
+            },
+            {
+                "option":
+                "private"
+                
+            },
+            {
+                "option":
+                "All of the above.",
+                "correct": true
+                
+            }
+            
+        ]
+        },
+        {
+            "question":"What is the keyword used in java to create an object?",
+            "options":[{
+                "option":
+                "New()"
+            },
+            {
+                "option":
+                "Sync"
+            },
+            {
+                "option":
+                "New",
+                "correct": true
+                
+            },
+            {
+                "option":
+                "This"
+                
+            }
+            
+        ]
+        }
+    ] 
+}

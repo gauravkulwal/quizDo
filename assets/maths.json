@@ -1,0 +1,194 @@
+{
+    "questions":[
+        {
+            "question":"The population of a town is 31250. If the population increases by 20% in one year, but decreases in second year by 20% and the process goes like this for 6 years. Find the number of women after 6 years if the ratio of women, child and men after 6 years is 5 : 3 : 1.",
+            "options":[{
+                "option":
+                "15000"
+            },
+            {
+                "option":
+                "13420"
+            },
+            {
+                "option":
+                "12560"
+            },
+            {
+                "option":
+                "15360",
+                "correct": true
+            }
+            
+        ]
+  
+        },
+        {
+            "question":"Two trains are moving in the opposite direction and their speeds are in the ratio of 2 : 1. If the first train crosses a standing man in 5 sec and another train crosses the same man in 8 sec, then determine the time taken by trains to cross each other.",
+            "options":[{
+                "option":
+                "8 sec"
+            },
+            {
+                "option":
+                "9sec"
+            },
+            {
+                "option":
+                "6 sec",
+                "correct": true
+            },
+            {
+                "option":
+                "None of the above."
+                
+            }
+            
+        ]
+        },
+        {
+            "question":"The ratio of sides of two regular polygons is 1 : 2 and the ratio of their internal angles is 4 : 5. The number of sides of the polygons are:",
+            "options":[{
+                "option":
+                "6, 12",
+                "correct": true
+            },
+            {
+                "option":
+                "3, 12"
+            },
+            {
+                "option":
+                "4,6"
+                
+            },
+            {
+                "option":
+                "5,8"
+                
+            }
+            
+        ]
+        },
+        {
+            "question":"Cost price and marked price of an article are in the ratio of 2 : 3 while selling price and marked price are in the ratio of 3 : 4. If the profit attained on the article was Rs. 65 then find the discount percent? ",
+            "options":[{
+                "option":
+                "22%"
+            },
+            {
+                "option":
+                "25%",
+                "correct": true
+            },
+            {
+                "option":
+                "24%"
+                
+            },
+            {
+                "option":
+                "28%"
+                
+            }
+            
+        ]
+        },
+        {
+            "question":"The average marks scored by Rakesh in 6 out of seven subjects in an examination is 76. To get an average of 70 in seven subjects together, what is the score that Rakesh must get in seventh subject?",
+            "options":[{
+                "option":
+                "29"
+            },
+            {
+                "option":
+                "39"
+            },
+            {
+                "option":
+                "34",
+                "correct": true
+                
+            },
+            {
+                "option":
+                "36"
+                
+            }
+            
+        ]
+        },
+        {
+            "question":" A milkman has  35 litres of milk in one container and 105 litres of milk in another container .Find the maximum capacity of container in cm3  which can measure milk of either containers in whole number.",
+            "options":[{
+                "option":
+                "29541"
+            },
+            {
+                "option":
+                "32520"
+            },
+            {
+                "option":
+                "25000"
+                
+            },
+            {
+                "option":
+                "35000",
+                "correct": true
+                
+            }
+            
+        ]
+        },
+        {
+            "question":"A man, a woman or a boy can do a job in 30 days, 60 days and 90 days respectively. How many boys must work with five men and four women to finish the same work in three days?",
+            "options":[{
+                "option":
+                "5"
+            },
+            {
+                "option":
+                "3"
+            },
+            {
+                "option":
+                "9",
+                "correct": true
+                
+            },
+            {
+                "option":
+                "4"
+                
+            }
+            
+        ]
+        },
+        {
+            "question":"A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:",
+            "options":[{
+                "option":
+                "678"
+            },
+            {
+                "option":
+                "589"
+            },
+            {
+                "option":
+                "698",
+                "correct": true
+                
+            },
+            {
+                "option":
+                "598"
+                
+            }
+            
+        ]
+        }
+    ] 
+}
