@@ -1,0 +1,47 @@
+.subject{
+ height:85vh;
+    background-color:#212529;
+    color: white;
+    padding-top: 20px;
+
+    li{
+       cursor:pointer;
+      text-align: center;
+      margin: 8px;
+       border: 5px solid #292b2c;
+      border-radius: 5px;
+    }
+}
+ul{
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+// @media only screen and (max-width: 450px) {
+//    .subject {
+// height: min-content;
+// padding-bottom: 5px;
+// padding-top: 10px;
+//     }
+//   }
+
+  select , button{
+    width:250px;
+    margin: 0 auto;
+  }
+  li:hover{
+    background-color: white;
+    color:black;
+  }
+
+.col-md-9, .col-md-3{
+  margin: 0px;
+  padding: 0px;
+}
+  .onResize{
+    width:100vw;
+    height:20vh;
+    color: white;
+    background-color:#212529;
+
+  }

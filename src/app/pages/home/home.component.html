@@ -1,0 +1,36 @@
+<div class="container">
+    <!-- <div class="row">
+        <div class="col-md-8 mx-auto bg-light">
+            <div class="text-center">
+                Quiz do
+            </div>
+
+           <select name="" [(ngModel)]="subject" id="" class="form-control mt-3">
+            <option value="undefined">Please select subject </option>
+            <option *ngFor="let subject of subjects" value="{{subject}}">{{subject  | uppercase }}</option>
+           </select>
+
+           <button class="btn form-control bg-info mt-3" (click)="onClick()">Submit</button>
+        </div>
+    </div> -->
+ <div class="card mx-auto ">
+    <a class="navbar-brand text-center" [routerLink]="['/home']" routerLinkActive="router-link-active" >
+        <img src="assets/brand.png" alt="" width="30" height="24"><span>QuizDo</span>
+    
+    </a>
+     <span class="text-center mt-2" >Hi there!   Quiz do Welcomes You.
+       <hr>
+    <br>
+     </span>
+    <h6>Why QuizDo??</h6> 
+    <br>
+     <ol class="mx-4">
+      <li>Quizzes are fun</li>
+      <li>Quizzes raise confidence</li>
+      <li>Quizzes are good for revision</li>
+      <li>Quizzes encourage pupils’ self awareness of progress and self assessment</li>
+  <li>Quizzes are great for end of topic assessments</li>   
+  </ol>
+ </div>
+
+</div>

@@ -1,0 +1,169 @@
+{
+    "questions":[
+        {
+            "question":"Which of the following is correct about TypeScript?",
+            "options":[{
+                "option":
+                "Angular is based on TypeScript."
+            },
+            {
+                "option":
+                "This is a superset of JavaScript"
+            },
+            {
+                "option":
+                "TypeScript is maintained by Microsoft."
+            },
+            {
+                "option":
+                "All of the above.",
+                "correct": true
+            }
+            
+        ]
+        },
+        {
+            "question":"What is .subscribe?",
+            "options":[{
+                "option":
+                "Streams data in asynchronously"
+            },
+            {
+                "option":
+                "Streams data in synchronously"
+            },
+            {
+                "option":
+                "Both",
+                "correct": true
+            },
+            {
+                "option":
+                "None of the above."
+                
+            }
+            
+        ]
+        },
+        {
+            "question":"What does AOT stand for?",
+            "options":[{
+                "option":
+                "Ahead-Of-Time Compilation",
+                "correct": true
+            },
+            {
+                "option":
+                "Angular Object Templates"
+            },
+            {
+                "option":
+                "Both"
+                
+            },
+            {
+                "option":
+                "None of the above."
+                
+            }
+            
+        ]
+        },
+        {
+            "question":"Which of the following is not a hook application life cycle?",
+            "options":[{
+                "option":
+                "ngOnChanges"
+            },
+            {
+                "option":
+                "ngViewStart",
+                "correct": true
+            },
+            {
+                "option":
+                "ngOnInit"
+                
+            },
+            {
+                "option":
+                "None of the above."
+                
+            }
+            
+        ]
+        },
+        {
+            "question":"RxJS can be used for?",
+            "options":[{
+                "option":
+                "Browser"
+            },
+            {
+                "option":
+                "Server Side"
+            },
+            {
+                "option":
+                "Both",
+                "correct": true
+                
+            },
+            {
+                "option":
+                "None of the above."
+                
+            }
+            
+        ]
+        },
+        {
+            "question":"Which angular decorator allows us to define the pipe name that is globally available for use in any template in the across application?",
+            "options":[{
+                "option":
+                "pipeName"
+            },
+            {
+                "option":
+                "pipeDeco"
+            },
+            {
+                "option":
+                "Pipe",
+                "correct": true
+                
+            },
+            {
+                "option":
+                "None of the above."
+                
+            }
+            
+        ]
+        },
+        {
+            "question":"Which angular decorator allows us to define the pipe name that is globally available for use in any template in the across application?",
+            "options":[{
+                "option":
+                "pipeName"
+            },
+            {
+                "option":
+                "pipeDeco"
+            },
+            {
+                "option":
+                "Pipe",
+                "correct": true
+                
+            },
+            {
+                "option":
+                "None of the above."
+                
+            }
+            
+        ]
+        }
+    ] 
+}

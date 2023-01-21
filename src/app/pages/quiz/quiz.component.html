@@ -1,0 +1,54 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-11 mx-auto">
+            <div class="d-flex justify-content-around mt-2">
+                <h5>{{subjectName |titlecase}} -Quiz</h5>
+             
+            </div>
+           <hr>
+            <div class="subject mx-auto">
+              {{currentQuestionNumber+1}} . {{questionArray[this.randomNumber[currentQuestionNumber]]?.question}}
+            </div>
+            <ul class="">
+                <li  class="mt-2" *ngFor="let option of questionArray[this.randomNumber[currentQuestionNumber]]?.options ; index as  i" >
+                 <div class="row">
+                    <div class="col-1 ">
+                    <span class="">({{i+1}})</span>    
+                    </div>
+                   
+                    <div class="col-10">
+                        <span (click)="onSubmit(option)" appBackground [isCorrect]="option.correct" class="form-control" [class]="colorClass">{{option.option}}</span>
+                    </div>
+                 </div>
+                 
+                </li>
+            </ul>
+            <div class="text-center mt-3">
+                <button [disabled]="currentQuestionNumber == 0" (click)="previous()" class="btn"><img src="assets/left.png"  alt=""></button>
+                <button  [disabled]="currentQuestionNumber == (questionArray.length - 1)" (click)="next()" class="btn"><img src="assets/right.png" alt=""></button>
+           
+            </div>
+        </div>
+      
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
